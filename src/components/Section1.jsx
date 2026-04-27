@@ -1,4 +1,26 @@
 function Section1(){
-    return <h1>2</h1>
+    return <section>
+        <div>
+            <img src="/imgs/buy-comics-digital-comics.png" alt="" />
+            <a href="DIGITAL COMICS">DIGITAL COMICS</a>
+        </div>
+        <div>
+            <img src="/imgs/buy-comics-digital-comics.png" alt="" />
+            <a href="DC MERCHANDISE">DC MERCHANDISE</a>
+        </div>
+        <div>
+            <img src="/imgs/buy-comics-digital-comics.png" alt="" />
+            <a href="SUBSCRIPTION">SUBSCRIPTION</a>
+        </div>
+        <div>
+            <img src="/imgs/buy-comics-digital-comics.png" alt="" />
+            <a href="COMIC SHOP LOCATOR">COMIC SHOP LOCATOR</a>
+        </div>
+        <div>
+            <img src="/imgs/buy-comics-digital-comics.png" alt="" />
+            <a href="DC POWER VISA">DC POWER VISA</a>
+        </div>
+        
+    </section>
 }
 export default Section1;

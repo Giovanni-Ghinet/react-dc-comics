@@ -1,13 +1,13 @@
 import Header from "./components/Header.jsx";
-import Section from "./components/Section.jsx";
-import Section1 from "./components/Section1.jsx";
+import Main from "./components/Main.jsx";
+import Footer from "./components/Footer.jsx";
 function App() {
   
 
   return <>
     <Header/>
-    <Section/>
-    <Section1/>
+    <Main/>
+    <Footer/>
   </>
 }
 
