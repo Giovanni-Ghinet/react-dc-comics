@@ -1,9 +1,8 @@
 import NavLink from "./NavLink";
 function Header(){
-    return <header>
+    return <header className="d-flex header">
         <img src="/imgs/dc-logo.png" alt="Logo DC" />
         <NavLink/>
-        <a href="SHOP">SHOP</a>
     </header>; 
 }
 

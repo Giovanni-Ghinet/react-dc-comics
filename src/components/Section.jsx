@@ -1,5 +1,8 @@
+
 function Section(){
     let titolo = "--> Content goes here <--"
-    return <h1> {titolo} </h1>
+    return <div className="container-main">
+        <h1 className="d-flex-sec"> {titolo} </h1>
+        </div>
 }
 export default Section;
